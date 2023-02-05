@@ -1,20 +1,20 @@
-# cl_python_2022
+# cl_python_2023
 
 ## Software Used
 * Windows
   * Microsoft VSCode
   * Remote SSH extentsion
   * Git or Openssh client
-* Linux VM
+* Linux VM / WSL
   * Python3
   * python-pip, virutalenv
     
 ## Python scripts for network automation lab
 
 * Clone the git repo
-  * git clone https://github.com/jagadnag/cl_python_2022.git
+  * git clone https://github.com/jagadnag/cl_python_2023.git
 * Navigate to the directory
-  * cd cl_python_2022
+  * cd cl_python_2023
 * Install the python package
   * setup a virtual environment
   * pip install --upgrade pip
