@@ -1,0 +1,4 @@
+---
+cisco:
+  platform: ios
+  port: 22

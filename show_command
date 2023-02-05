@@ -1,0 +1,7 @@
+show runn | in logging
+show runn | in ntp
+show runn | in snmp
+show ip access-lists TEST_ACL
+show ip ospf neighbor
+show ip ospf interface brief 
+show ip interface brief

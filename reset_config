@@ -1,0 +1,12 @@
+no logging console
+no logging host 10.1.1.1
+no logging host 10.1.1.2
+no logging host 10.1.1.3
+no ntp server 10.1.1.4
+no ip name-server 10.1.1.5
+no snmp-server community cisco_public RO
+no snmp-server community cisco_private RW
+no snmp-server location dCloud
+no ip access-list extended TEST_ACL
+no interface loopback 10
+no router ospf 10
