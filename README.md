@@ -51,11 +51,10 @@ https://pyneng.readthedocs.io/en/latest/
 
 ### Recommeded Books:
 
-https://www.amazon.com/Network-Programmability-Automation-Next-Generation-Engineer/dp/1491931256
+https://a.co/d/f6Tmcrr
+https://a.co/d/4rcgkcp
+https://a.co/d/2lts4V9
 
-https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280
-
-https://www.amazon.com/Automate-Boring-Stuff-Python-2nd/dp/1593279922
 
   
 
