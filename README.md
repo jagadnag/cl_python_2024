@@ -1,4 +1,4 @@
-# cl_python_2023
+# cl_python_2024
 
 ## Software Used
 * Windows
@@ -12,9 +12,9 @@
 ## Python scripts for network automation lab
 
 * Clone the git repo
-  * git clone https://github.com/jagadnag/cl_python_2023.git
+  * git clone https://github.com/jagadnag/cl_python_2024.git
 * Navigate to the directory
-  * cd cl_python_2023
+  * cd cl_python_2024
 * Install the python package
   * setup a virtual environment
   * pip install --upgrade pip
